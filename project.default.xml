@@ -1,0 +1,56 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>General</id>
+              </State>
+              <State>
+                <id>Internationalization</id>
+              </State>
+              <State>
+                <id>JSON and JSON5</id>
+              </State>
+              <State>
+                <id>MongoJS</id>
+              </State>
+              <State>
+                <id>Oracle</id>
+              </State>
+              <State>
+                <id>Proofreading</id>
+              </State>
+              <State>
+                <id>RegExp</id>
+              </State>
+              <State>
+                <id>SQL</id>
+              </State>
+              <State>
+                <id>Version control</id>
+              </State>
+              <State>
+                <id>XML</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="602" y="164" key="SettingsEditor" timestamp="1674310674702">
+          <screen x="0" y="0" width="2560" height="1032" />
+        </state>
+        <state x="602" y="164" key="SettingsEditor/0.0.2560.1032/-1080.-155.1080.1872" timestamp="1674310674702" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
